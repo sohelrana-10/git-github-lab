@@ -12,3 +12,4 @@ for learning Git and GitHub.
 ## My Progress
 - Initialized a Git repository
 - Created my first commit
+- Practiced editing files directly on GitHub
