@@ -1,4 +1,4 @@
-# Git and GitHub Lab
+# Backend Engineering Lab
 
 This repository is my hands-on practice space
 for learning Git and GitHub.
@@ -8,3 +8,7 @@ for learning Git and GitHub.
 - Staging and commits
 - Branching and merging
 - Remote repositories
+
+## My Progress
+- Initialized a Git repository
+- Created my first commit
