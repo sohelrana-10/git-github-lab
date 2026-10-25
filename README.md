@@ -1,4 +1,4 @@
-# Backend Engineering Lab
+# Git and GitHub Practice Lab
 
 This repository is my hands-on practice space
 for learning Git and GitHub.
