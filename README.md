@@ -59,11 +59,18 @@
 - [ ] How to synchronize local and remote repositories
 
 ---
-
+## Markdwon Basics
+- Formating
+- Headings
+- Tables
+- Linking
+- Block
+- Lists 
 ## Progress Tracker
 
-- [ ] Complete all topics
-- [ ] Practice each command in a local repository
-- [ ] Document common errors and their solutions
-- [ ] Complete a mini-project using Git and GitHub
+- [x] Complete all topics
+- [x] Practice each command in a local repository
+- [x] Document common errors and their solutions
+- [x] Complete a mini-project using Git and GitHub  
+- [x] Complete markdown basics.
 
